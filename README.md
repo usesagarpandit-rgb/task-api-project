@@ -31,5 +31,5 @@ A RESTful Task Management API built with Node.js and Express, utilizing an in-me
 
 1. Clone the repository:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone <https://github.com/usesagarpandit-rgb/task-api-project.git>
    cd task-api-project
